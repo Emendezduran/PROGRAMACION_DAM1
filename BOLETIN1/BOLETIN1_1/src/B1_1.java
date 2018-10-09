@@ -10,7 +10,7 @@ public class B1_1 {
       int area = (base*altura)/2;
               
               System.out.println("Area del triangulo = "+area); 
-              
+ //COMMENT             
 }
 
 }
